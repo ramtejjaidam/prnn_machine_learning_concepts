@@ -1,0 +1,5 @@
+# creating virtual environment
+
+python -m venev /path/to/the/environment
+source /path/to/the/environment/bin/activate #activates the environment
+deactivate #deactivates the environment
